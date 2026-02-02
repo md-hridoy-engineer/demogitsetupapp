@@ -9,7 +9,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class GitHubActivity extends AppCompatActivity {
-
+// added comments
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // new comments
@@ -25,3 +25,4 @@ public class GitHubActivity extends AppCompatActivity {
 }
 
 EdgeToEdge.enable(this);
+
