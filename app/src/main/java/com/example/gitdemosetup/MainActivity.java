@@ -22,3 +22,4 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+EdgeToEdge.enable(this);EdgeToEdge.enable(this);EdgeToEdge.enable(this);
