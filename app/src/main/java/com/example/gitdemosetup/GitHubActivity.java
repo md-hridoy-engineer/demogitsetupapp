@@ -23,3 +23,5 @@ public class GitHubActivity extends AppCompatActivity {
         });
     }
 }
+
+EdgeToEdge.enable(this);
