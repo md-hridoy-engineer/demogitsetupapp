@@ -12,6 +12,7 @@ public class GitHubActivity extends AppCompatActivity {
 // added comments
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        // new comments
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_git_hub);
@@ -22,3 +23,6 @@ public class GitHubActivity extends AppCompatActivity {
         });
     }
 }
+
+EdgeToEdge.enable(this);
+
